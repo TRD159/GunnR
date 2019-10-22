@@ -13,21 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-21T13:36:10.740-05:00
-  initializedAtString: 2019-10-21T12:52:47.949-05:00
+  lastUpdatedAtString: 2019-10-22T13:36:27.298-05:00
+  initializedAtString: 2019-10-22T12:53:04.643-05:00
   entries:
-  - path: .vs\GunnR\v16\Server\sqlite3\db.lock
-    fullPath: C:\Users\othscs163\Desktop\GunnR\.vs\GunnR\v16\Server\sqlite3\db.lock
-    projectPath: .vs\GunnR\v16\Server\sqlite3\db.lock
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: .vs\GunnR\v16\Server\sqlite3\storage.ide
-    fullPath: C:\Users\othscs163\Desktop\GunnR\.vs\GunnR\v16\Server\sqlite3\storage.ide
-    projectPath: .vs\GunnR\v16\Server\sqlite3\storage.ide
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: .vs\GunnR\v16\Server\sqlite3\storage.ide-shm
     fullPath: C:\Users\othscs163\Desktop\GunnR\.vs\GunnR\v16\Server\sqlite3\storage.ide-shm
     projectPath: .vs\GunnR\v16\Server\sqlite3\storage.ide-shm
@@ -40,18 +28,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\PlayerPhysics.physicsMaterial2D
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Assets\PlayerPhysics.physicsMaterial2D
+    projectPath: Assets\PlayerPhysics.physicsMaterial2D
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlayerPhysics.physicsMaterial2D.meta
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Assets\PlayerPhysics.physicsMaterial2D.meta
+    projectPath: Assets\PlayerPhysics.physicsMaterial2D.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\PlayerScript.cs
     fullPath: C:\Users\othscs163\Desktop\GunnR\Assets\PlayerScript.cs
     projectPath: Assets\PlayerScript.cs
@@ -64,12 +52,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GunnR.sln
-    fullPath: C:\Users\othscs163\Desktop\GunnR\GunnR.sln
-    projectPath: GunnR.sln
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\assetDatabase3
     fullPath: C:\Users\othscs163\Desktop\GunnR\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -92,32 +74,44 @@ MonoBehaviour:
     fullPath: C:\Users\othscs163\Desktop\GunnR\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\othscs163\Desktop\GunnR\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\othscs163\Desktop\GunnR\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\othscs163\Desktop\GunnR\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\InspectorExpandedItems.asset
     fullPath: C:\Users\othscs163\Desktop\GunnR\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\metadata\29\2985e358eca2abd4ea3691d8d2fb3a0c
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\metadata\29\2985e358eca2abd4ea3691d8d2fb3a0c
+    projectPath: Library\metadata\29\2985e358eca2abd4ea3691d8d2fb3a0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\29\2985e358eca2abd4ea3691d8d2fb3a0c.info
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\metadata\29\2985e358eca2abd4ea3691d8d2fb3a0c.info
+    projectPath: Library\metadata\29\2985e358eca2abd4ea3691d8d2fb3a0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\metadata\47\479fd1a096f883845a55212988ad6a8a
     fullPath: C:\Users\othscs163\Desktop\GunnR\Library\metadata\47\479fd1a096f883845a55212988ad6a8a
     projectPath: Library\metadata\47\479fd1a096f883845a55212988ad6a8a
@@ -136,39 +130,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\0\02ed06672a6348b30d1d44efd614795d.bin
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\ShaderCache\0\02ed06672a6348b30d1d44efd614795d.bin
-    projectPath: Library\ShaderCache\0\02ed06672a6348b30d1d44efd614795d.bin
+  - path: Library\ShaderCache\8\84ffab32e165e7986717a6cb49ae157c.bin
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\ShaderCache\8\84ffab32e165e7986717a6cb49ae157c.bin
+    projectPath: Library\ShaderCache\8\84ffab32e165e7986717a6cb49ae157c.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\ShaderCache\1\189b0bd74b1e6b7e72266ac6293f598e.bin
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\ShaderCache\1\189b0bd74b1e6b7e72266ac6293f598e.bin
-    projectPath: Library\ShaderCache\1\189b0bd74b1e6b7e72266ac6293f598e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\33823dd99b143b652b02c2c901d4b4e4.bin
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\ShaderCache\3\33823dd99b143b652b02c2c901d4b4e4.bin
-    projectPath: Library\ShaderCache\3\33823dd99b143b652b02c2c901d4b4e4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\94d276a929eca2da6b1022331e3b87bd.bin
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\ShaderCache\9\94d276a929eca2da6b1022331e3b87bd.bin
-    projectPath: Library\ShaderCache\9\94d276a929eca2da6b1022331e3b87bd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\e2bcec9ec1c39549fc84d8d45a3ee4e6.bin
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\ShaderCache\e\e2bcec9ec1c39549fc84d8d45a3ee4e6.bin
-    projectPath: Library\ShaderCache\e\e2bcec9ec1c39549fc84d8d45a3ee4e6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\e8722ab1fae7e48db6da9ccd328bcb61.bin
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\ShaderCache\e\e8722ab1fae7e48db6da9ccd328bcb61.bin
-    projectPath: Library\ShaderCache\e\e8722ab1fae7e48db6da9ccd328bcb61.bin
+  - path: Library\ShaderCache\a\a79917bfaf396feb7fdcb1430975e01b.bin
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Library\ShaderCache\a\a79917bfaf396feb7fdcb1430975e01b.bin
+    projectPath: Library\ShaderCache\a\a79917bfaf396feb7fdcb1430975e01b.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -208,30 +178,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\othscs163\Desktop\GunnR\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\othscs163\Desktop\GunnR\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\othscs163\Desktop\GunnR\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\othscs163\Desktop\GunnR\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
@@ -244,81 +190,99 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2d4be3aad8e3f464fbf07a76c43b2602
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-2d4be3aad8e3f464fbf07a76c43b2602
-    projectPath: Temp\UnityTempFile-2d4be3aad8e3f464fbf07a76c43b2602
+  - path: Temp\UnityTempFile-104566ad55527074c9e58dadc3859354
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-104566ad55527074c9e58dadc3859354
+    projectPath: Temp\UnityTempFile-104566ad55527074c9e58dadc3859354
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-38eeaee6791dde3419b5bf50a5a8b2f5
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-38eeaee6791dde3419b5bf50a5a8b2f5
-    projectPath: Temp\UnityTempFile-38eeaee6791dde3419b5bf50a5a8b2f5
+  - path: Temp\UnityTempFile-121b976377ea2484991d0ba6f43ff445
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-121b976377ea2484991d0ba6f43ff445
+    projectPath: Temp\UnityTempFile-121b976377ea2484991d0ba6f43ff445
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3fcaaee2186ff50488566c0a22c93fec
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-3fcaaee2186ff50488566c0a22c93fec
-    projectPath: Temp\UnityTempFile-3fcaaee2186ff50488566c0a22c93fec
+  - path: Temp\UnityTempFile-1b682083b036eb84db30bddac3f91fd6
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-1b682083b036eb84db30bddac3f91fd6
+    projectPath: Temp\UnityTempFile-1b682083b036eb84db30bddac3f91fd6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5ce59ea63bfdb7241bc8e93aef5ed492
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-5ce59ea63bfdb7241bc8e93aef5ed492
-    projectPath: Temp\UnityTempFile-5ce59ea63bfdb7241bc8e93aef5ed492
+  - path: Temp\UnityTempFile-24a812bf45935c94685c6610ee06f673
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-24a812bf45935c94685c6610ee06f673
+    projectPath: Temp\UnityTempFile-24a812bf45935c94685c6610ee06f673
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-73a1e68be46e6094c966f2d3c642e406
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-73a1e68be46e6094c966f2d3c642e406
-    projectPath: Temp\UnityTempFile-73a1e68be46e6094c966f2d3c642e406
+  - path: Temp\UnityTempFile-369b04a0030143b43abcb25b19ca896d
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-369b04a0030143b43abcb25b19ca896d
+    projectPath: Temp\UnityTempFile-369b04a0030143b43abcb25b19ca896d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-8d54f902bd3bef34e877aad642021776
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-8d54f902bd3bef34e877aad642021776
-    projectPath: Temp\UnityTempFile-8d54f902bd3bef34e877aad642021776
+  - path: Temp\UnityTempFile-3ef57ea752080b4479491446fab4afd8
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-3ef57ea752080b4479491446fab4afd8
+    projectPath: Temp\UnityTempFile-3ef57ea752080b4479491446fab4afd8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-98ec8ecd588a2b441942fc437c920881
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-98ec8ecd588a2b441942fc437c920881
-    projectPath: Temp\UnityTempFile-98ec8ecd588a2b441942fc437c920881
+  - path: Temp\UnityTempFile-50a9bd556d726634bb0fde610a8dcab6
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-50a9bd556d726634bb0fde610a8dcab6
+    projectPath: Temp\UnityTempFile-50a9bd556d726634bb0fde610a8dcab6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9b3e2f7b1ecea5f4fbac8cab54f35f52
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-9b3e2f7b1ecea5f4fbac8cab54f35f52
-    projectPath: Temp\UnityTempFile-9b3e2f7b1ecea5f4fbac8cab54f35f52
+  - path: Temp\UnityTempFile-639be1755d88a4d4fbec421773424b0e
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-639be1755d88a4d4fbec421773424b0e
+    projectPath: Temp\UnityTempFile-639be1755d88a4d4fbec421773424b0e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b38a0d022fd35fc4d99319b875ce2c83
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-b38a0d022fd35fc4d99319b875ce2c83
-    projectPath: Temp\UnityTempFile-b38a0d022fd35fc4d99319b875ce2c83
+  - path: Temp\UnityTempFile-7b4f35c1cabf14a4d9bfc45f4ae8f42e
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-7b4f35c1cabf14a4d9bfc45f4ae8f42e
+    projectPath: Temp\UnityTempFile-7b4f35c1cabf14a4d9bfc45f4ae8f42e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b683e97f7a1b78540b859185ad28fece
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-b683e97f7a1b78540b859185ad28fece
-    projectPath: Temp\UnityTempFile-b683e97f7a1b78540b859185ad28fece
+  - path: Temp\UnityTempFile-8ccae9ca73f935f45b8cf09f4f4b20ee
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-8ccae9ca73f935f45b8cf09f4f4b20ee
+    projectPath: Temp\UnityTempFile-8ccae9ca73f935f45b8cf09f4f4b20ee
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-bd2f0861b7dfe1149b49454d27420ef4
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-bd2f0861b7dfe1149b49454d27420ef4
-    projectPath: Temp\UnityTempFile-bd2f0861b7dfe1149b49454d27420ef4
+  - path: Temp\UnityTempFile-9e86ceacc521c9d459cbe354eaac9bfd
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-9e86ceacc521c9d459cbe354eaac9bfd
+    projectPath: Temp\UnityTempFile-9e86ceacc521c9d459cbe354eaac9bfd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-be374b7bfea33864691902c1ea3521f9
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-be374b7bfea33864691902c1ea3521f9
-    projectPath: Temp\UnityTempFile-be374b7bfea33864691902c1ea3521f9
+  - path: Temp\UnityTempFile-ab625e29297a93a4490b913df12eb3f7
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-ab625e29297a93a4490b913df12eb3f7
+    projectPath: Temp\UnityTempFile-ab625e29297a93a4490b913df12eb3f7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c164c7b5521eca249a85faeb82ac7ea7
-    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-c164c7b5521eca249a85faeb82ac7ea7
-    projectPath: Temp\UnityTempFile-c164c7b5521eca249a85faeb82ac7ea7
+  - path: Temp\UnityTempFile-ac90d0ba09247644bb5380ee2708cb76
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-ac90d0ba09247644bb5380ee2708cb76
+    projectPath: Temp\UnityTempFile-ac90d0ba09247644bb5380ee2708cb76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ebeadc9cc1556ad458de33f6925f55f5
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-ebeadc9cc1556ad458de33f6925f55f5
+    projectPath: Temp\UnityTempFile-ebeadc9cc1556ad458de33f6925f55f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ec481639a118fff4c8be23fcb24ac14e
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-ec481639a118fff4c8be23fcb24ac14e
+    projectPath: Temp\UnityTempFile-ec481639a118fff4c8be23fcb24ac14e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fe6943a0bda085c429861ea918e9497b
+    fullPath: C:\Users\othscs163\Desktop\GunnR\Temp\UnityTempFile-fe6943a0bda085c429861ea918e9497b
+    projectPath: Temp\UnityTempFile-fe6943a0bda085c429861ea918e9497b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
